@@ -1,0 +1,19 @@
+{
+  "name": "claude-deep-research",
+  "owner": {
+    "name": "jl-cmd"
+  },
+  "metadata": {
+    "description": "Deep research with official-docs-first methodology for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "deep-research",
+      "source": "./",
+      "description": "Deep research with official-docs-first methodology. Includes /deep-research, /research-mode, and a deep-research agent.",
+      "version": "1.0.0",
+      "category": "research",
+      "tags": ["research", "citations", "anti-hallucination", "obsidian", "official-docs"]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "deep-research",
+  "description": "Deep research with official-docs-first methodology. Includes /deep-research (iterative multi-source research with Obsidian reports) and /research-mode (anti-hallucination constraints with source authority hierarchy).",
+  "version": "1.0.0",
+  "author": {
+    "name": "jl-cmd"
+  },
+  "homepage": "https://github.com/jl-cmd/claude-deep-research",
+  "repository": "https://github.com/jl-cmd/claude-deep-research",
+  "license": "MIT",
+  "keywords": ["research", "deep-research", "citations", "anti-hallucination", "obsidian", "official-docs"]
+}
